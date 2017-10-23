@@ -13,10 +13,12 @@ namespace Simple_WCF_Client
         static void Main(string[] args)
         { 
             Console.WriteLine("press Y to stop");
+            // Create an instance of client code
             CalculationServiceClient client = new CalculationServiceClient();
+            // invoke Sum method available on wcf server
             var res=client.Sum(5, 5);
-            Console.WriteLine("sum: " + res);
-            Console.WriteLine("Name: " + client.FullName(new SImple_Wcf_Example.Person { First="rajat", Last="sahu" }));
+            Console.WriteLine("Sum: " + res);
+            Console.WriteLine("Name: " + client.FullName(new SImple_Wcf_Example.Person { First="Adam", Last="John" }));
             
             do
             {

@@ -1,0 +1,7 @@
+c:\users\rajat-nineleaps\source\repos\Simple WCF Client\Simple WCF Client\obj\Debug\Simple WCF Client.csprojResolveAssemblyReference.cache
+c:\users\rajat-nineleaps\source\repos\Simple WCF Client\Simple WCF Client\obj\Debug\Simple WCF Client.csproj.CoreCompileInputs.cache
+c:\users\rajat-nineleaps\source\repos\Simple WCF Client\Simple WCF Client\bin\Debug\Simple WCF Client.exe.config
+c:\users\rajat-nineleaps\source\repos\Simple WCF Client\Simple WCF Client\bin\Debug\Simple WCF Client.exe
+c:\users\rajat-nineleaps\source\repos\Simple WCF Client\Simple WCF Client\bin\Debug\Simple WCF Client.pdb
+c:\users\rajat-nineleaps\source\repos\Simple WCF Client\Simple WCF Client\obj\Debug\Simple WCF Client.exe
+c:\users\rajat-nineleaps\source\repos\Simple WCF Client\Simple WCF Client\obj\Debug\Simple WCF Client.pdb
